@@ -1,0 +1,19 @@
+{
+  "title": "Angular Image Cropper",
+  "name": "angular-img-cropper",
+  "version": "0.0.1",
+  "private": true,
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "author": [
+    {
+      "name": "Jean Charles Fauvin",
+      "email": "jcfauvin@powerspace.com",
+      "url": "https://github.com/ByJC"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Powerspace/angular-img-cropper"
+  }
+}
